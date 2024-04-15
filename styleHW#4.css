@@ -1,0 +1,37 @@
+/*Tyeisha Stroud Homework #4-CSS 04/13/2024
+/* Color Styles */
+/* Font Styles */
+/* Font Size */
+
+h1{
+    color: lightgreen; /*lightgreen*/
+    font-family: "Pacifico",cursive;/*I wanted this section to have cursive wording*/
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+}
+
+h2,h3{
+    color: #90EE90;/*lightgreen*/
+    font-family: "Srisakdi", monospace;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+    font-style: italic;/*Here I wanted my description to have a pop as well*/
+}
+
+.item{ 
+    background-color: hsla(120, 73%, 75%, 0.322);
+    border-style: groove;
+}
+
+footer{
+    background-color: rgba(11,156,49,0.2);
+    font-family: monospace;
+    color: red;
+}
+
